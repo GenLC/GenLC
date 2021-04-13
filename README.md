@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **GenLC/GenLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# El encabezado más largo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
+  Genaro López Chialva
+</h1>
+
+
+I'm Genaro, a 21 years old Software developer from Argentina.
+
+- 🔭 I’m currently working on [Econovo](http://www.econovo.com.ar/) 
+
+- 🧭 Founder at [TurnOn](turnon.ar)
+
+## Skills
+- 👨‍💻 VB, C#, JavaScrypt
+- 👁️ Bootstrap
+- 💽 SQL Server
+
+## Contact
+- [Portafolio Git](https://genlc.github.io/Portafolio/)
+
