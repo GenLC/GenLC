@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 </h1>
 
 
-I'm Genaro, a 21 years old Software developer from Argentina.
+I'm Genaro, a 22 years old Software developer from Argentina.
 
-- 🔭 I’m currently working on [Econovo](http://www.econovo.com.ar/) 
-
-- 🧭 Founder at [TurnOn](turnon.ar)
+- 🔭 I’m currently working on [Star Technology](startechnology.com.ar) 
 
 ## Skills
 - 👨‍💻 VB, C#, JavaScrypt
@@ -32,5 +30,5 @@ I'm Genaro, a 21 years old Software developer from Argentina.
 - 💽 SQL Server
 
 ## Contact
-- [Portafolio Git](https://genlc.github.io/Portafolio/)
+- [Portafolio Git](genlc.github.io/Portafolio)
 
