@@ -30,5 +30,5 @@ I'm Genaro, a 22 years old Software developer from Argentina.
 - 💽 SQL Server
 
 ## Contact
-- [curriculum](genlc.github.io/me)
+- [curriculum](https://genlc.github.io/me/)
 
