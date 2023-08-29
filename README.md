@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 </h1>
 
 
-I'm Genaro, a 22 years old Software developer from Argentina.
+I'm Genaro, a software developer from Argentina specializing in SAP Business One.
 
 - 🔭 I’m currently working on [Star Technology](startechnology.com.ar) 
 
 ## Skills
-- 👨‍💻 VB, C#, JavaScrypt
-- 👁️ Bootstrap
-- 💽 SQL Server
+- 👨‍💻  VB, C#, .NET, ASP.NET, WebApi
+- 💽 SQL Server, Hana 
+- 🌐 SAP Business One Developer
+- 🕸️ SAPUI5, JavaScrypt, CSS, Bootstrap
 
 ## Contact
 - [curriculum](https://genlc.github.io/me/)
